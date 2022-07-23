@@ -86,3 +86,7 @@ When we ran the function, we assigned the values that were found to be contrary 
 **İren Vera Can**  
 **Mustafa Faruk Ceylan**  
 **Esin Kavurmacı**  
+
+<a href = "[https://github.com/Tanu-N-Prabhu/Python/graphs/contributors](https://github.com/b21892757/globalai-project/graphs/contributors)">
+  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+</a>
