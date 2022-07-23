@@ -79,7 +79,7 @@ We need to follow the same path as in the box graph. First, it is necessary to d
 When we ran the function, we assigned the values that were found to be contrary to the rule we set to a variable. And we found that the outliers are 75 to 9.
 
 
-#### 
+#### Katkıda bulunanlar / Contributors
 **Enes Genişyürek**  
 **Emircan Baki Doğan**   
 **İren Vera Can**  
