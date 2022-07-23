@@ -1,6 +1,6 @@
 # globalai-project2 (data Pythons) 
 
-## Projenin Genel Özeti
+## Projenin Genel Özeti / Project Summary
 
 Netflix dizilerinin istatistiksel değerlerini ekrana bastırma ve görselleştirme işlemi 
 
