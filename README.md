@@ -80,8 +80,8 @@ When we ran the function, we assigned the values that were found to be contrary 
 
 
 #### 
-**Enes Genişyürek** </bar>
-**Emircan Baki Doğan** </bar>
-**İren Vera Can** </bar>
-**Mustafa Faruk Ceylan** </bar>
-**Esin Kavurmacı** </bar>
+**Enes Genişyürek**  
+**Emircan Baki Doğan**   
+**İren Vera Can**  
+**Mustafa Faruk Ceylan**  
+**Esin Kavurmacı**  
