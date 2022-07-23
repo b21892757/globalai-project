@@ -16,11 +16,11 @@ In the last step, we visualized the values ​we created in the previous step us
 
 
 Öncelikle veri çerçevesinde tarih sütunumuzun veri türü sayısal olmadığı için tüm tarih bilgilerini sayısal türe çevirme işlemi yaptık. Bu işlemi python pandas kütüphanesinin içerisindeki to_datetime methodu ile gerçekleştirdik. Daha sonra bu sayısal kısımın içinden yıl ve ay bilgisini çekip yeni bir sütunda tuttuk.
-Burada klasik bir sorgu gerçekleştirdim ve bu tarihler arasında olup filmin türü documentary olan tüm sütunları yeni bir değişkene atadık. 
+Burada klasik bir sorgu gerçekleştirdik ve bu tarihler arasında olup filmin türü documentary olan tüm sütunları yeni bir değişkene atadık. 
 En son adımda scatter kullanarak önceki adımda oluşturduğumuz değerleri görselleştirdik.
 
 First of all, since the data type of our date column in the data frame is not numeric, we converted all date information to numeric type. We did this with the to_datetime method in the python pandas library. 
-Then we pulled the year and month information from this numeric part and kept it in a new column. Here, I performed a classic query and assigned all the columns between these dates and whose type is documentary to a new variable. In the last step, we visualized the values we created in the previous step using the scatter.
+Then we pulled the year and month information from this numeric part and kept it in a new column. Here, We performed a classic query and assigned all the columns between these dates and whose type is documentary to a new variable. In the last step, we visualized the values we created in the previous step using the scatter.
 
 ### 3) İngilizce çekilen filmler içerisinde hangi tür en yüksek IMDB puanına sahiptir? / Which genre has the highest IMDB rating among movies shot in English?
 
