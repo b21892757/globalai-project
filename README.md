@@ -1,4 +1,4 @@
-# Globalai-project1 
+# Globalai-project1  hw1_studentDF
 
 ## Projenin Genel Özeti / Project Summary
 
@@ -7,7 +7,7 @@
  *&emsp;We made an application that keeps student information and notes. There are 3 main functions in the project, these are addStudent, transferInfo, and menu. With the addStudent function, we get the students' name, age, school number, and grade, then we send the function named transferInfo. Here we send the student's information to the list we keep, convert it to a data frame, and send it to the data frame we kept at the beginning of the program. In our function called menu, we have a screen that shows the operations that the user can do, and we also direct the operations according to the user's selection.*
 
 
-# Globalai-project2
+# Globalai-project2 hw2_netflixPD
 
 ## Projenin Genel Özeti / Project Summary
 
