@@ -62,18 +62,20 @@ We created the variable named "Gnre" and visualized the categories using the "gr
 
 *In order to find the 3 most used languages in the dataset, we first sorted the languages using the "value_conts" method, which shows how many times each unique value in the 'language' column is used, and we used the "head" method to obtain the first 3 languages.*
 
+
 ### IMDB puanı en yüksek olan ilk 10 film hangileridir? 
 
 *“df_sorted” adlı  değişkeni oluşturup bunu ‘sort_values’ metodunu kullanarak sıralama işlemi gerçekleştirildi ve ‘head’ methodu ile ilk 10 satır seçilmiş oldu böylece IMDB puanı en yüksek olan ilk 10 film elde edildi.*
 
+
 ### IMDB puanı ile 'Runtime' arasında nasıl bir korelasyon vardır? İnceleyip görselleştiriniz.
 
-“corr” adlı değişkeni oluşturup ‘corr’ methodu kullanarak DataFrame içindeki iki sütun arasındaki korelasyon tablosunu elde ettik. Ardından IMDB puanı ile ‘Runtime’ arasındaki korelasyonu ‘Headmap’ methodu kullanarak bir ısı haritası oluşturduk ve görselleştirdik. ‘set_title’ methodu kullanarak başlık ekledik.
+*“corr” adlı değişkeni oluşturup ‘corr’ methodu kullanarak DataFrame içindeki iki sütun arasındaki korelasyon tablosunu elde ettik. Ardından IMDB puanı ile ‘Runtime’ arasındaki korelasyonu ‘Headmap’ methodu kullanarak bir ısı haritası oluşturduk ve görselleştirdik. ‘set_title’ methodu kullanarak başlık ekledik.*
 
 
 ### IMDB Puanı en yüksek olan ilk 10 'Genre' hangileridir? Görselleştiriniz.
 
-"gnre" adlı değişkeni oluşturup bunu "groupby" methodu kullanarak  elde  ettiğimiz kategorileri görselleştirdik. Böylece IMDB puanı en yüksek olan ilk 10 ‘Genre’yi bulduk ve görselleştirdik.
+*"gnre" adlı değişkeni oluşturup bunu "groupby" methodu kullanarak  elde  ettiğimiz kategorileri görselleştirdik. Böylece IMDB puanı en yüksek olan ilk 10 ‘Genre’yi bulduk ve görselleştirdik.*
 
 
 ###  'Runtime' değeri en yüksek olan ilk 10 film hangileridir? / Which are the top 10 movies with the highest 'Runtime' value?
