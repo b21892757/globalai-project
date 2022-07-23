@@ -29,10 +29,19 @@ En son adımda head methodu ile en üstteki değeri ekrana yazdırdık.
 
 First, we assigned the English-language movies in the data frame to a variable, then we sorted them from largest to smallest according to their IMDB score using sort_values.
 
-## 4
+### 4) 'Hindi' Dilinde çekilmiş olan filmlerin ortalama 'runtime' süresi nedir? / What is the average 'runtime' of movies shot in 'Hindi'? 
 
-## 5
-## 6
+'Hindi' dilinde çekilmiş olan filmlerin ortalama 'runtime' süresini öğrenmek için "mean" mehtodunu kullandık./ We used the mean method to find out the average runtime of movies shot in 'Hindi'.
+
+### 5) 'Genre' Sütunu kaç kategoriye sahiptir ve bu kategoriler nelerdir? Görselleştirerek ifade ediniz./ How many categories does the 'Genre' Column have and what are those categories? Express it visually.
+
+'Genre' sütunu'nun kaç kategoriden oluştuğunu "nunique" methodunu kullanarak bulduk. Bu kategorilerin neler olduğunu "unique" methodu kullanarak elede ettik.
+"Gnre" adlı değişkeni oluşturup bunu "groupby" methodu kullanarak kategorileri görselleştirdik./ We found how many categories the 'Genre' column consists of using the "nunique" method. We found out what these categories are by using the "unique" method.
+We created the variable named "Gnre" and visualized the categories using the "groupby" method.
+
+### 6) Veri setinde bulunan filmlerde en çok kullanılan 3 dili bulunuz./ Find the 3 most used languages in the movies in the data set.
+
+Veri setinde bulunan en çok kullanılan 3 dili bulmak için öncelikle 'language' sütunundaki her bir unique değerinin kaç kez kullanıldığını gösteren "value_conts" methodunu kullanarak dilleri sıraladık ve ilk 3 dili elde etmek için "head" methodunu kullandık./ In order to find the 3 most used languages in the dataset, we first sorted the languages using the "value_conts" method, which shows how many times each unique value in the 'language' column is used, and we used the "head" method to obtain the first 3 languages.
 ## 7
 ## 8
 ## 9
