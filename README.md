@@ -66,6 +66,10 @@ We created the variable named "Gnre" and visualized the categories using the "gr
 
 *“df_sorted” adlı  değişkeni oluşturup bunu ‘sort_values’ metodunu kullanarak sıralama işlemi gerçekleştirildi ve ‘head’ methodu ile ilk 10 satır seçilmiş oldu böylece IMDB puanı en yüksek olan ilk 10 film elde edildi.*
 
+### IMDB puanı ile 'Runtime' arasında nasıl bir korelasyon vardır? İnceleyip görselleştiriniz.
+
+“corr” adlı değişkeni oluşturup ‘corr’ methodu kullanarak DataFrame içindeki iki sütun arasındaki korelasyon tablosunu elde ettik. Ardından IMDB puanı ile ‘Runtime’ arasındaki korelasyonu ‘Headmap’ methodu kullanarak bir ısı haritası oluşturduk ve görselleştirdik. ‘set_title’ methodu kullanarak başlık ekledik.
+
 
 ### IMDB Puanı en yüksek olan ilk 10 'Genre' hangileridir? Görselleştiriniz.
 
