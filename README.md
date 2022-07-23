@@ -5,6 +5,19 @@
  *&emsp;Öğrenci bilgileri ve notlarını tutan bir uygulama yaptık, Projede 3 ana fonksiyon bulunmakta bunlar öğrenciEkle , aktar ve menü . ogrenciEkle fonksiyonu ile öğrencilerin isim yaş okulnumarası ve notunu alıyoruz, daha sonra aktar adlı fonksiyonu gönderiyoruz. Burada öğrencinin bilgilerini tuttuğumuz listeye gönderiyoruz ve bunu veri çerçevesine çevirip programın başlangıcında tuttuğumuz veri çerçevesine gönderiyoruz. menu adlı fonksiyonumuzda kullanıcıya yapabileceği işlemleri gösteren bir ekranımız bulunmakta, ayrıca burada kullanıcının seçimine göre işlemlere yönlendirme yapıyoruz.*
 
  *&emsp;We made an application that keeps student information and notes. There are 3 main functions in the project, these are addStudent, transferInfo, and menu. With the addStudent function, we get the students' name, age, school number, and grade, then we send the function named transferInfo. Here we send the student's information to the list we keep, convert it to a data frame, and send it to the data frame we kept at the beginning of the program. In our function called menu, we have a screen that shows the operations that the user can do, and we also direct the operations according to the user's selection.*
+ 
+ 
+#### Bu projede bir öğrenci not sistemi oluşturacaksınız.
+
+- İstenilenler
+  * Kendinize bir ders belirleyiniz. (Matematik,Fizik, Lineer Cebir vb.) </br>
+  * Not aralığınızı oluşturunuz (100-80 ⇒ A, 79-70 ⇒ B vb.) </br>
+  * Öğrenci Bilgilerini (Ad, Soyad, Okul No, sınav puanı) girebileceğiniz ve bu bilgilerin tutulabileceği bir sistem oluşturunuz. </br>
+  * Girilen bilgilerden yola çıkarak öğrencinin dersi geçip geçmediğini göstermesi gerekmektedir. </br>
+  * Öğrenci dersi geçti ise öğrencinin bilgilerinin tutulduğu alana “Geçti” yazısı, öğrenci dersi geçemedi ise “kaldı” yazısını göstermesi gerekmektedir. </br>
+  * Notları girilen öğrencilerden dersi geçenleri ve geçmeyenleri gösteren bir Dataframe oluşturunuz.  </br>
+  * Oluşturulan Dataframe’i Excel tablosuna dönüştürünüz. </br>
+
 
 
 # Globalai-project2 hw2_netflixPD
